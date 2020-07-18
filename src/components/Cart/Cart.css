@@ -1,0 +1,17 @@
+.discount{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+.discount p{
+    margin: 2px;
+    padding: 0px;
+}
+.caution{
+    color: lightcoral;
+}
+.bold{
+    font-weight: bold;
+}
+.size{
+    font-size: smaller;
+}
